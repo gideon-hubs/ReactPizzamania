@@ -1,0 +1,47 @@
+.bg-light {
+    background-color: #a94442 !important;
+   
+}
+
+.navbar-light .navbar-brand {
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:#FFFFFF;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.about-pizza{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.pizza-types{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.footer{
+    padding: 1.5rem 0;
+    background-color: #a94442;
+    color: whitesmoke;
+   
+}
+
+.foots{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
